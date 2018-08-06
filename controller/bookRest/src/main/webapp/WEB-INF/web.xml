@@ -1,0 +1,12 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <display-name>REST CONTROLLER FOR BOOK</display-name>
+    <servlet>
+        <servlet-name>BookRestController</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BookRestController</servlet-name>
+        <url-pattern>/rest/book/</url-pattern>
+    </servlet-mapping>
+</web-app>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logger/aspectLogger/aspectLogger.iml" filepath="$PROJECT_DIR$/logger/aspectLogger/aspectLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/bookController/bookController.iml" filepath="$PROJECT_DIR$/controller/bookController/bookController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/bookDao/bookDao.iml" filepath="$PROJECT_DIR$/dao/bookDao/bookDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/bookRest/bookRest.iml" filepath="$PROJECT_DIR$/controller/bookRest/bookRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/bookRestController.iml" filepath="$PROJECT_DIR$/controller/bookRestController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/bookService/bookService.iml" filepath="$PROJECT_DIR$/service/bookService/bookService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/bookSpringDao/bookSpringDao.iml" filepath="$PROJECT_DIR$/dao/bookSpringDao/bookSpringDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/bookSpringService/bookSpringService.iml" filepath="$PROJECT_DIR$/service/bookSpringService/bookSpringService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/controller.iml" filepath="$PROJECT_DIR$/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/dto/dto.iml" filepath="$PROJECT_DIR$/model/dto/dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/logDao/logDao.iml" filepath="$PROJECT_DIR$/dao/logDao/logDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleProject.iml" filepath="$PROJECT_DIR$/moduleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/userController/userController.iml" filepath="$PROJECT_DIR$/controller/userController/userController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/userDao/userDao.iml" filepath="$PROJECT_DIR$/dao/userDao/userDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/userService/userService.iml" filepath="$PROJECT_DIR$/service/userService/userService.iml" />
+    </modules>
+  </component>
+</project>

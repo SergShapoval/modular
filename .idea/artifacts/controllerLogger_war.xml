@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="controllerLogger:war">
+    <output-path>$PROJECT_DIR$/logger/controllerLogger/target</output-path>
+    <root id="archive" name="controllerLogger.war">
+      <element id="artifact" artifact-name="controllerLogger:war exploded" />
+    </root>
+  </artifact>
+</component>

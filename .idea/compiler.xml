@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.13/aspectjtools-1.8.13.jar" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aspectLogger" />
+        <module name="bookController" />
+        <module name="bookDao" />
+        <module name="bookRest" />
+        <module name="bookRestController" />
+        <module name="bookService" />
+        <module name="bookSpringDao" />
+        <module name="bookSpringService" />
+        <module name="controllerLogger" />
+        <module name="dto" />
+        <module name="logDao" />
+        <module name="userController" />
+        <module name="userDao" />
+        <module name="userService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aspectLogger" target="1.8" />
+      <module name="bookController" target="1.6" />
+      <module name="bookDao" target="1.6" />
+      <module name="bookRest" target="1.7" />
+      <module name="bookrest" target="1.8" />
+      <module name="bookRestController" target="1.8" />
+      <module name="bookService" target="1.6" />
+      <module name="bookSpringDao" target="1.8" />
+      <module name="bookSpringService" target="1.6" />
+      <module name="controller" target="1.6" />
+      <module name="controllerLogger" target="1.7" />
+      <module name="dao" target="1.6" />
+      <module name="dto" target="1.6" />
+      <module name="logDao" target="1.8" />
+      <module name="logger" target="1.6" />
+      <module name="logService" target="1.6" />
+      <module name="model" target="1.6" />
+      <module name="moduleProject" target="1.6" />
+      <module name="service" target="1.6" />
+      <module name="userController" target="1.6" />
+      <module name="userDao" target="1.6" />
+      <module name="userService" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\dao\log\model\Log.class
+com\dao\log\dao\LogDAO.class
+com\dao\log\dao\DatabaseUtil.class
+com\dao\log\dao\impl\LogDAOImpl.class

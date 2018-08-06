@@ -1,0 +1,6 @@
+com\logger\writer\FileWriter.class
+com\logger\LoggerAspect.class
+com\logger\writer\ConsoleWriter.class
+com\logger\writer\Writer.class
+com\logger\util\ObjectUtils.class
+com\logger\dto\LogDTO.class

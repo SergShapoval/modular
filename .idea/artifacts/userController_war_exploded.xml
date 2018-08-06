@@ -1,0 +1,65 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="userController:war exploded">
+    <output-path>$PROJECT_DIR$/controller/userController/target/userController</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="userController" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="userService-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="userService" />
+          </element>
+          <element id="archive" name="userDao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="userDao" />
+          </element>
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.11" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+          <element id="archive" name="bookDao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="bookDao" />
+          </element>
+          <element id="archive" name="logDao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="logDao" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.7.RELEASE" />
+          <element id="archive" name="dto-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="dto" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.9.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.7.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" />
+          <element id="library" level="project" name="Maven: moduleProject:logService:1.0-SNAPSHOT" />
+          <element id="archive" name="aspectLogger-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="aspectLogger" />
+          </element>
+          <element id="archive" name="bookService-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="bookService" />
+          </element>
+          <element id="archive" name="bookSpringService-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="bookSpringService" />
+          </element>
+          <element id="archive" name="bookSpringDao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="bookSpringDao" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.7.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/controller/userController/target/userController/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="userController/web/Web" />
+    </root>
+  </artifact>
+</component>

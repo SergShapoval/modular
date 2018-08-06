@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="AspectJ" name="AspectJ">
+      <configuration>
+        <option name="aspectPath">
+          <projectLibrary>
+            <option name="name" value="Maven: moduleProject:controllerLogger:1.0-SNAPSHOT" />
+          </projectLibrary>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.8.13" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-orm:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.4" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" level="project" />
+    <orderEntry type="library" name="Maven: moduleProject:logService:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="logDao" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.protobuf:protobuf-java:2.6.0" level="project" />
+    <orderEntry type="module" module-name="bookDao" />
+    <orderEntry type="module" module-name="userDao" />
+    <orderEntry type="module" module-name="aspectLogger" />
+    <orderEntry type="module" module-name="bookService" />
+    <orderEntry type="module" module-name="userService" />
+    <orderEntry type="module" module-name="bookSpringService" />
+    <orderEntry type="module" module-name="bookSpringDao" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.0.7.RELEASE" level="project" />
+    <orderEntry type="module" module-name="dto" />
+  </component>
+</module>
